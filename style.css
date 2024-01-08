@@ -1,0 +1,39 @@
+*{
+background-color: cadetblue;
+}
+.child{
+    text-align: center;
+}
+
+.head{
+font-family: unset;
+ font-size: 70px;
+text-transform: uppercase;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: solid;}
+
+.head:hover{
+    text-shadow: -2px -2px 2px greenyellow;
+}
+
+.head2{
+    font-style: italic;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-shadow: -2px -2px 2px greenyellow;
+}
+.same{
+    font-size: 50px;
+}
+
+
+.head3 >li{
+    color: rgb(39, 2, 2);
+   ;
+}
+button:active{
+    background-color: chocolate;
+}
+input:focus{
+    background-color: chartreuse;
+}
